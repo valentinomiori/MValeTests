@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MValeTests.DateTime", "MVal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MValeTests.SystemTextJson", "MValeTests.SystemTextJson\MValeTests.SystemTextJson.csproj", "{A6C416E6-603B-4DFD-B2C8-381E224A897F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MValeTests.ValidationAttribute", "MValeTests.ValidationAttribute\MValeTests.ValidationAttribute.csproj", "{655222EA-D30A-4207-9C86-792794D7FBF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A6C416E6-603B-4DFD-B2C8-381E224A897F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C416E6-603B-4DFD-B2C8-381E224A897F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C416E6-603B-4DFD-B2C8-381E224A897F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655222EA-D30A-4207-9C86-792794D7FBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655222EA-D30A-4207-9C86-792794D7FBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655222EA-D30A-4207-9C86-792794D7FBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655222EA-D30A-4207-9C86-792794D7FBF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
